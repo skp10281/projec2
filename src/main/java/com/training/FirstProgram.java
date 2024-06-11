@@ -1,4 +1,4 @@
-package com;
+package com.training;
 
 public class FirstProgram {
 }
